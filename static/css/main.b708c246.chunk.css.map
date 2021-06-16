@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css","webpack://src/components/Search.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CCFA,EACE,aACF","file":"main.b708c246.chunk.css","sourcesContent":["body {\r\n  background-color: black;\r\n}\r\n","* {\r\n  color: #8f00ff;\r\n}\r\n"]}
